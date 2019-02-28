@@ -86,3 +86,4 @@ It browses the repository and outputs html page with statistics.
 4. Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 5. Push to the branch (`git push origin my-new-feature`)
 6. Create new Pull Request
+7. Done
